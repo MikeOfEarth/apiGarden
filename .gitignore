@@ -1,0 +1,4 @@
+gardenvenv
+.env
+__pycache__
+migrations
