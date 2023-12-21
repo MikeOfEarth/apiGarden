@@ -1,8 +1,9 @@
 users={
-   "oldMacDon":{
-      "name":"Tobias McDonald",
-      "email":"runch1ckenrun@gmail.com",
-      "password":"funkyTown"
+    1:{
+        "username":"oldMacDon",
+        "name":"Tobias McDonald",
+        "email":"runch1ckenrun@gmail.com",
+        "password":"funkyTown"
     }
 }
 
@@ -26,9 +27,7 @@ crops={
 }
 
 plots={
-    1.1:{
-        "grid-value-x":1,
-        "grid-value-y":1,
+    "1.1":{
         "owner":"oldMacDon",
         "light":"full",
         "crop":None,
